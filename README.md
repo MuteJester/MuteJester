@@ -1,5 +1,3 @@
-### Thomas Konstantinovsky
-
 PhD candidate working on algorithms, probabilistic models and machine learning for immune receptor sequences (BCR and TCR repertoires).
 
 **Main projects**
